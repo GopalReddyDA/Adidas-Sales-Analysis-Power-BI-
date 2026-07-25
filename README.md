@@ -47,4 +47,4 @@ This project demonstrates an end-to-end sales analysis workflow using Power BI. 
 * Analyze geographic sales distribution.
 
 ## Dashboard Preview :
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/GopalReddyDA/Adidas-Sales-Analysis-Power-BI-/blob/main/Report%20Insights%20View.png)
