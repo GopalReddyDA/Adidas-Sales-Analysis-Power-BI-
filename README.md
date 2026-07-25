@@ -45,3 +45,6 @@ This project demonstrates an end-to-end sales analysis workflow using Power BI. 
 * Evaluate retailer performance.
 * Discover seasonal sales trends.
 * Analyze geographic sales distribution.
+
+## Dashboard Preview :
+![Dashboard Preview]()
